@@ -1,0 +1,6 @@
+- insert:
+    - id: notify-relay
+      name: 'dsh-notify-relay'
+      config:
+        enabled: true
+        tool: true

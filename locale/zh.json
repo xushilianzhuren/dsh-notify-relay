@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "dsh-notify-relay",
+    "description": "手机信使：长任务完成/出错/需决策时主动推通知到手机（Server酱/Bark/Gotify） Phone messenger: proactive push on task completion, errors, or decisions."
+  }
+}
